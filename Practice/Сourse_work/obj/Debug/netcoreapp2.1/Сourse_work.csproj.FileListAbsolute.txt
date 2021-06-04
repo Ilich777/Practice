@@ -1,0 +1,14 @@
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\bin\Debug\netcoreapp2.1\Сourse_work.deps.json
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\bin\Debug\netcoreapp2.1\Сourse_work.runtimeconfig.json
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\bin\Debug\netcoreapp2.1\Сourse_work.runtimeconfig.dev.json
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\bin\Debug\netcoreapp2.1\Сourse_work.dll
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\bin\Debug\netcoreapp2.1\Сourse_work.pdb
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.csproj.CoreCompileInputs.cache
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.RazorAssemblyInfo.cache
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.RazorAssemblyInfo.cs
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.AssemblyInfoInputs.cache
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.AssemblyInfo.cs
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.RazorTargetAssemblyInfo.cache
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.dll
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.pdb
+C:\Users\Бим и Тайсон\Desktop\Сourse_work\obj\Debug\netcoreapp2.1\Сourse_work.csprojAssemblyReference.cache
